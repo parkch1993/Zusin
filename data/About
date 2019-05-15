@@ -1,0 +1,31 @@
+<section class="contact-section">
+    <div class="container">
+        <h2 class="sec-tit">이메일 문의</h2>
+        <div class="form-box">
+            <form action="" method="">
+                <fieldset class="cfixed">
+                    <div class="form">
+                        <label for="name" class="blind">이름</label>
+                        <input type="text" id="name" placeholder="Name">
+                        <label for="phone" class="blind">휴대폰 번호</label>
+                        <input type="tel" id="phone" placeholder="Phone">
+                        <label for="email" class="blind">이메일</label>
+                        <input type="email" id="email" placeholder="Email Address">
+                    </div>
+                    <div class="textarea">
+                        <label for="message" class="blind">내용</label>
+                        <textarea name="message" id="message" placeholder="Message">
+                        </textarea>
+                    </div>
+                </fieldset>
+                    <div class="send-btn">
+                        <button>SEND MASSAGE</button>
+                    </div>
+            </form>
+        </div>
+</section>
+
+<footer class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1329.8491419558102!2d126.92348254128632!3d37.55666295284776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4d94afa5a35ebf9e!2z7Yyo7Iqk7Yq47YyM7J2067iMIO2ZjeuMgOygkA!5e0!3m2!1sko!2skr!4v1557208987484!5m2!1sko!2skr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+</iframe>
+</footer>

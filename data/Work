@@ -1,0 +1,70 @@
+<section class="work-section cfixed">
+            <h2 class="sec-tit">서비스</h2>
+            <ul class="work-list">
+                <li>
+                    <a href="">
+                        <div class="info">
+                            <h3>Dimo</h3>
+                            <span>Dimo is...</span>
+                        </div>
+                        <img src="img/dimo.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>Soultouch</h3>
+                            <span>Soultouch is...</span>
+                        </div>
+                        <img src="img/soultouch.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>conference</h3>
+                            <span>We are...</span>
+                        </div>
+                        <img src="img/112.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>conference</h3>
+                            <span>We are...</span>
+                        </div>
+                        <img src="img/222.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>conference</h3>
+                            <span>We are...</span>
+                        </div>
+                        <img src="img/123123.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>conference</h3>
+                            <span>We are...</span>
+                        </div>
+                        <img src="img/123123.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>conference</h3>
+                            <span>We are...</span>
+                        </div>
+                        <img src="img/123123.png" alt="">
+                    </a>
+                </li><li>
+                    <a href="">
+                        <div class="info">
+                            <h3>conference</h3>
+                            <span>We are...</span>
+                        </div>
+                        <img src="img/123123.png" alt="">
+                    </a>
+                </li>
+            </ul>
+        </section>
